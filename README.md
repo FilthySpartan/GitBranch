@@ -1,4 +1,4 @@
-Exercise 04 - Tagging, Branching and Merging
+Exercise 04 : - Tagging, Branching, and Merging
 
 git tag <commit-num> to set a tag
 
@@ -11,3 +11,7 @@ Checkout this branch bruh
 this is the newbranch branch
 ...
 ///
+
+
+Pull request
+ bleblleegelble
